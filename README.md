@@ -1,2 +1,2 @@
 # drivercodegen
-driver code generator for VS2019
+Windows kernel driver code generator for VS2019
